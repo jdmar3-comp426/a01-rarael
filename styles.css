@@ -8,17 +8,24 @@ p {
 }
 
 #hades {
-    font-style:oblique;
-    background-color: red;
+    font:bold;
+    font-style: oblique;
+    background-color:#ff0000;
 }
 
 #persephone {
     font-style: italic;
+  
     color:black;
-    background-color: blue;
+    background-color: #0000ff;
 }
 
 .ending { 
     font-style: italic;
     color: red
+}
+
+.title {
+    font:larger;
+    background-color: red;
 }
