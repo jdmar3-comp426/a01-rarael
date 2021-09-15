@@ -1,0 +1,23 @@
+p {
+    text-align: left;
+    color:black
+}
+
+#demeter {
+    color:blue;
+}
+
+#hades {
+    font-style:normal;
+    
+}
+
+#persephone {
+    font-style: italic;
+    color:black;
+}
+
+.ending { 
+    font-style: italic;
+    color: red
+}
