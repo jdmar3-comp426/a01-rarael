@@ -4,17 +4,18 @@ p {
 }
 
 #demeter {
-    color:blue;
+    background-color: seagreen;
 }
 
 #hades {
-    font-style:normal;
-    
+    font-style:oblique;
+    background-color: red;
 }
 
 #persephone {
     font-style: italic;
     color:black;
+    background-color: blue;
 }
 
 .ending { 
