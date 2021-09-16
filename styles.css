@@ -2,7 +2,10 @@ p {
     text-align: left;
     color:black
 }
-
+p:first-child {
+    text-align: left;
+    color:blue;
+}
 #demeter {
     background-color: #ff0000;
 }
