@@ -4,7 +4,7 @@ p {
 }
 
 #demeter {
-    background-color: seagreen;
+    background-color: #ff0000;
 }
 
 #hades {
@@ -17,7 +17,7 @@ p {
     font-style: italic;
   
     color:black;
-    background-color: #0000ff;
+    background-color: #ff0000;
 }
 
 .ending { 
@@ -37,4 +37,16 @@ p {
 
 img {
     border: 5px solid #ff0000;
+}
+
+a:link {
+    color:blue
+}
+
+a:hover {
+    color:white;
+}
+
+a:visited {
+    color:blueviolet;
 }
