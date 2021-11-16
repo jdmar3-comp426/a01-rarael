@@ -1,0 +1,57 @@
+p {
+    text-align: left;
+    color:black
+}
+div p{
+    text-align: left;
+    color:blue;
+}
+#demeter {
+    background-color: #ff0000;
+}
+
+#hades {
+    font:bold;
+    font-style: oblique;
+    background-color:#ff0000;
+}
+
+#persephone {
+    font-style: italic;
+  
+    color:black;
+    background-color: #ff0000;
+}
+
+.ending { 
+    font-style: italic;
+    color: red;
+    border: red;
+}
+
+.title {
+    font:larger;
+    background-color: red;
+}
+
+.return{
+    font:x-large;
+}
+
+img {
+    border: 5px solid #ff0000;
+    width: 150px;
+    height: 200px;
+}
+
+a:link {
+    color:blue
+}
+
+a:hover {
+    color:white;
+}
+
+a:visited {
+    color:blueviolet;
+}
